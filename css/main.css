@@ -1,0 +1,26 @@
+body {
+	font-family: 'Raleway', sans-serif;
+	color: #747704;
+}
+.container {
+	margin-top: 10px;
+	max-width: 980px;
+}
+.header h1 {
+	font-size: 50px;
+}
+.header p {
+	font-size: 18px;
+}
+hr {
+	height: 2px;
+	color: red;
+	background-color: #bcbbbb;
+}
+.feat-wrk-title {
+	margin: 35px 0 10px 30px;
+	color: #bcbbbb;
+}
+.feat-wrk-section a{
+	color: #747704;
+}
